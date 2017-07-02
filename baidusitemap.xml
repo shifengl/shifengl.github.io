@@ -4,44 +4,12 @@
 
     
   <url>
-    <loc>http://shifengl.github.com/2017/07/02/true-hello-world/</loc>
-    <lastmod>2017-07-02T10:50:10.207Z</lastmod>
-    <data>
-        <display>
-        <title>真正的Hello World</title>
-        <pubTime>2017-07-02T10:48:38.000Z</pubTime>
-        
-        <tag>日记</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://shifengl.github.com/2017/07/02/hello-world/</loc>
-    <lastmod>2017-07-02T10:29:39.644Z</lastmod>
+    <lastmod>2017-07-02T10:59:00.924Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
-        <pubTime>2017-07-02T08:31:25.893Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://shifengl.github.com/2017/07/02/name/</loc>
-    <lastmod>2017-07-02T10:25:34.427Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo之NexT主题搭建博客详细过程</title>
-        <pubTime>2017-07-02T09:29:51.000Z</pubTime>
+        <pubTime>2017-07-02T10:48:38.000Z</pubTime>
         
         <tag>nodejs</tag>
          
@@ -54,6 +22,23 @@
              
               <breadCrumb title="hexo" url="http://shifengl.github.com/categories/hexo/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://shifengl.github.com/2017/07/02/true-hello-world/</loc>
+    <lastmod>2017-07-02T10:50:10.207Z</lastmod>
+    <data>
+        <display>
+        <title>真正的Hello World</title>
+        <pubTime>2017-07-02T10:48:38.000Z</pubTime>
+        
+        <tag>日记</tag>
+         
+         
+           
         </display>
     </data>
     </url>
