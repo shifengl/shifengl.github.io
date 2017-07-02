@@ -3,6 +3,24 @@
   
     
     <entry>
+      <title><![CDATA[真正的Hello World]]></title>
+      <url>/2017/07/02/true-hello-world/</url>
+      <content type="html"><![CDATA[<p>一直都很想拥有一个自己的博客，写写自己学到的一些东西，或者是自己的所见所闻，所感所悟，我觉得及时记录自己的一些想法还是很有必要的，要不然老了凭何怀念呢？</p>
+<a id="more"></a>
+<p>很开心这个博客终于建立起来了，虽然还很简陋，随意看看吧。</p>
+<p>后续会慢慢完善它，敬请期待！</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 日记 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hexo之NexT主题搭建博客详细过程]]></title>
       <url>/2017/07/02/name/</url>
       <content type="html"><![CDATA[<p>在浏览器访问：<a href="http://localhost:4000/" target="_blank" rel="external">http://localhost:4000/</a> 便可查看hexo默认的主题<br><img src="https://volc1605.github.io/images/Hexo之NexT主题搭建博客详细过程/h.png" alt="hexo"><br><a id="more"></a>    # 直接在文章的md文件中添加<!-- more -->标注</p>
