@@ -99,7 +99,7 @@
 <meta property="og:url" content="http://shifengl.github.com/2017/07/02/hello-world/index.html">
 <meta property="og:site_name" content="SXY">
 <meta property="og:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.">
-<meta property="og:updated_time" content="2017-07-02T10:26:35.875Z">
+<meta property="og:updated_time" content="2017-07-02T10:29:39.644Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hello World">
 <meta name="twitter:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.">
@@ -654,6 +654,14 @@
   <span id="showDays"></span>
 </div>
 
+
+<script>
+  var birthDay = new Date('07/2/2017');
+  var now = new Date();
+  var duration = now.getTime() - birthDay.getTime();
+  var total= Math.floor(duration / (1000 * 60 * 60 * 24));
+  document.getElementById('showDays').innerHTML='本站已运行' + total + '天';
+</script>
 
         
 
