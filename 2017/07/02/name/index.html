@@ -101,7 +101,7 @@
 <meta property="og:site_name" content="SXY">
 <meta property="og:description" content="在浏览器访问：http://localhost:4000/ 便可查看hexo默认的主题">
 <meta property="og:image" content="https://volc1605.github.io/images/Hexo之NexT主题搭建博客详细过程/h.png">
-<meta property="og:updated_time" content="2017-07-02T09:48:32.474Z">
+<meta property="og:updated_time" content="2017-07-02T09:52:44.799Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo之NexT主题搭建博客详细过程">
 <meta name="twitter:description" content="在浏览器访问：http://localhost:4000/ 便可查看hexo默认的主题">
@@ -397,6 +397,7 @@
 <blockquote>
 <p>clone NexT主题</p>
 </blockquote>
+<p>在blog根目录执行命令</p>
 
       
     </div>
@@ -411,6 +412,27 @@
     <div>
       
         
+  <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
+    <div>如果文章对您有用请随意打赏，谢谢支持！</div>
+    <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
+      <span>赏</span>
+    </button>
+    <div id="QR" style="display: none;">
+      
+        <div id="wechat" style="display: inline-block">
+          <img id="wechat_qr" src="/images/w.png" alt="Shifeng Lin WeChat Pay"/>
+          <p>微信打赏</p>
+        </div>
+      
+      
+        <div id="alipay" style="display: inline-block">
+          <img id="alipay_qr" src="/images/z.jpg" alt="Shifeng Lin Alipay"/>
+          <p>支付宝打赏</p>
+        </div>
+      
+    </div>
+  </div>
+
 
       
     </div>
@@ -633,7 +655,18 @@
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
     NexT.Mist
   </a>
+  <span>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
+  <span id="showDays"></span>
 </div>
+
+
+<script>
+  var birthDay = new Date('07/2/2017');
+  var now = new Date();
+  var duration = now.getTime() - birthDay.getTime();
+  var total= Math.floor(duration / (1000 * 60 * 60 * 24));
+  document.getElementById('showDays').innerHTML='本站已运行' + total + '天';
+</script>
 
 
         
