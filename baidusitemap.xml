@@ -4,8 +4,28 @@
 
     
   <url>
+    <loc>http://shifengl.github.com/2017/07/02/true-hello-world/</loc>
+    <lastmod>2017-07-02T11:02:06.476Z</lastmod>
+    <data>
+        <display>
+        <title>真正的Hello World</title>
+        <pubTime>2017-07-02T10:48:38.000Z</pubTime>
+        
+        <tag>日记</tag>
+         
+         
+           
+             
+              <breadCrumb title="日记" url="http://shifengl.github.com/categories/%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://shifengl.github.com/2017/07/02/hello-world/</loc>
-    <lastmod>2017-07-02T10:59:00.924Z</lastmod>
+    <lastmod>2017-07-02T11:01:39.524Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
@@ -22,23 +42,6 @@
              
               <breadCrumb title="hexo" url="http://shifengl.github.com/categories/hexo/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://shifengl.github.com/2017/07/02/true-hello-world/</loc>
-    <lastmod>2017-07-02T10:50:10.207Z</lastmod>
-    <data>
-        <display>
-        <title>真正的Hello World</title>
-        <pubTime>2017-07-02T10:48:38.000Z</pubTime>
-        
-        <tag>日记</tag>
-         
-         
-           
         </display>
     </data>
     </url>
