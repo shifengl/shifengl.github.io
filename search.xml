@@ -3,7 +3,7 @@
   
     
     <entry>
-      <title><![CDATA[使用Hexo + NexT搭建静态博客]]></title>
+      <title><![CDATA[使用 Hexo + NexT 搭建静态博客]]></title>
       <url>/2017/07/02/hexo-build/</url>
       <content type="html"><![CDATA[<p>本站使用 Hexo 来搭建，使用 NexT 主题，这里记录一下搭建本站的整个过程，仅供参考。</p>
 <a id="more"></a>
@@ -123,11 +123,11 @@
         
         <tags>
             
+            <tag> NexT </tag>
+            
             <tag> Node.js </tag>
             
             <tag> Hexo </tag>
-            
-            <tag> NexT </tag>
             
         </tags>
         
@@ -187,11 +187,11 @@
         
         <tags>
             
-            <tag> NexT </tag>
-            
             <tag> nodejs </tag>
             
             <tag> hexo </tag>
+            
+            <tag> NexT </tag>
             
         </tags>
         

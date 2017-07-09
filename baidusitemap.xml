@@ -5,17 +5,17 @@
     
   <url>
     <loc>http://shifengl.github.com/2017/07/02/hexo-build/</loc>
-    <lastmod>2017-07-09T14:52:22.167Z</lastmod>
+    <lastmod>2017-07-09T14:56:27.260Z</lastmod>
     <data>
         <display>
-        <title>使用Hexo + NexT搭建静态博客</title>
+        <title>使用 Hexo + NexT 搭建静态博客</title>
         <pubTime>2017-07-02T15:50:37.000Z</pubTime>
         
+        <tag>NexT</tag>
+         
         <tag>Node.js</tag>
          
         <tag>Hexo</tag>
-         
-        <tag>NexT</tag>
          
          
            
@@ -32,11 +32,11 @@
         <title>Testing</title>
         <pubTime>2017-07-02T06:48:38.000Z</pubTime>
         
-        <tag>NexT</tag>
-         
         <tag>nodejs</tag>
          
         <tag>hexo</tag>
+         
+        <tag>NexT</tag>
          
          
            
