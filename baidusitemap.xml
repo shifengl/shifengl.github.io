@@ -4,6 +4,23 @@
 
     
   <url>
+    <loc>http://shifengl.github.com/2017/07/02/hexo-build/</loc>
+    <lastmod>2017-07-09T09:29:34.064Z</lastmod>
+    <data>
+        <display>
+        <title>使用Hexo + NexT搭建静态博客</title>
+        <pubTime>2017-07-02T15:50:37.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://shifengl.github.com/2017/07/02/testing/</loc>
     <lastmod>2017-07-02T12:39:25.824Z</lastmod>
     <data>
@@ -11,9 +28,9 @@
         <title>Testing</title>
         <pubTime>2017-07-02T06:48:38.000Z</pubTime>
         
-        <tag>nodejs</tag>
-         
         <tag>hexo</tag>
+         
+        <tag>nodejs</tag>
          
         <tag>NexT</tag>
          
