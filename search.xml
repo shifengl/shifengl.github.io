@@ -4,7 +4,7 @@
     
     <entry>
       <title><![CDATA[使用 Hexo + NexT 搭建静态博客]]></title>
-      <url>/2017/07/02/hexo-build/</url>
+      <url>/2017/07/09/hexo-build/</url>
       <content type="html"><![CDATA[<p>本站使用 Hexo 来搭建，使用 NexT 主题，这里记录一下搭建本站的整个过程，仅供参考。</p>
 <a id="more"></a>
 <h1 id="环境准备"><a href="#环境准备" class="headerlink" title="环境准备"></a>环境准备</h1><p>下载安装 Node.js 和 Git(for windows) ，我的搭建环境是 win10-64bit</p>
